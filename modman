@@ -1,2 +1,5 @@
-app/code/community/Webshopapps/Matrixrate/                           app/code/community/Webshopapps/Matrixrate/
-app/etc/modules/Webshopapps_Matrixrate.xml                           app/etc/modules/Webshopapps_Matrixrate.xml
+app/code/community/Webshopapps/*                                        app/code/community/Webshopapps/
+app/design/adminhtml/default/default/layout/webshopapps_wsalogger.xml   app/design/adminhtml/default/default/layout/webshopapps_wsalogger.xml
+app/design/adminhtml/default/default/template/webshopapps_wsalogger/*   app/design/adminhtml/default/default/template/webshopapps_wsalogger/
+app/etc/modules/*                                                       app/etc/modules/
+app/locale/en_US/template/email/webshopapps_log_email.html              app/locale/en_US/template/email/webshopapps_log_email.html
